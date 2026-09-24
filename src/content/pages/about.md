@@ -46,8 +46,15 @@ Hi, I'm **Jeremy Liu** (刘洋杨), an engineer who works at the intersection of
 - **Programming:** C / C++, Python, MATLAB, Java
 - **Languages:** English (IELTS 6.5, all-English coursework), Mandarin, Cantonese
 
+## 📮 Contact
+
+- Email: [liuyangyang_24@163.com](mailto:liuyangyang_24@163.com)
+- WeChat ID: `iamjeremymars`
+- Instagram: [@iamjeremymars](https://www.instagram.com/iamjeremymars)
+- WhatsApp: [+852 8495 0734](https://wa.me/85284950734)
+
 ## 中文简介
 
 你好，我是刘洋杨。电子信息工程本科（中南林业科技大学与英国班戈大学中外合作双学位，一等学位），香港浸会大学信息技术管理硕士，目前在涂鸦智能（Tuya Smart）做嵌入式技术支持工程师。做过医疗硬件、电路设计与 IT 运维，喜欢把想法做成能跑的实物。工作之余玩摄影、健身、游泳和骑行。
 
-想聊聊？欢迎[发邮件](mailto:liuyangyang_24@163.com)，或者去我的 [GitHub](https://github.com/iamjeremymars) 逛逛。
+想聊聊？欢迎[发邮件](mailto:liuyangyang_24@163.com)，去我的 [GitHub](https://github.com/iamjeremymars) 逛逛，也可以加我微信 `iamjeremymars`（备注来意），或通过 [Instagram](https://www.instagram.com/iamjeremymars) / WhatsApp (+852 8495 0734) 找到我。

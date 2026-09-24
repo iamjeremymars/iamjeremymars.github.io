@@ -32,6 +32,12 @@ export default defineAstroPaperConfig({
   socials: [
     { name: "github", url: "https://github.com/iamjeremymars" },
     { name: "mail", url: "mailto:liuyangyang_24@163.com" },
+    { name: "instagram", url: "https://www.instagram.com/iamjeremymars" },
+    {
+      name: "whatsapp",
+      url: "https://wa.me/85284950734",
+      linkTitle: "Chat with Jeremy Liu on WhatsApp",
+    },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
