@@ -1,13 +1,13 @@
 ---
 title: "About"
-description: "Jeremy Liu — electronics & IT engineer. MSc in IT Management at HKBU, BEng in Electronic Engineering."
+description: "Jeremy Liu — embedded technical support engineer at Tuya Smart. MSc in IT Management (HKBU), BEng in Electronic Engineering."
 ---
 
 Hi, I'm **Jeremy Liu** (刘洋杨), an engineer who works at the intersection of hardware and software — from circuit design and embedded firmware to IT infrastructure and data.
 
 ## 🎓 Education
 
-- **MSc, Information Technology Management** — Hong Kong Baptist University (2025 – 2026, expected)
+- **MSc, Information Technology Management** — Hong Kong Baptist University (2025 – 2026)
   Focus: AI & digital transformation, big data management, generative-AI prompt engineering, data mining & analytics.
 - **BEng, Electronic Information Engineering** — Central South University of Forestry and Technology (2021 – 2025)
   GPA 3.81, top 5% of class.
@@ -16,6 +16,8 @@ Hi, I'm **Jeremy Liu** (刘洋杨), an engineer who works at the intersection of
 
 ## 💼 Experience
 
+- **Embedded Technical Support Engineer · Tuya Smart** (2026 – Present)
+  Supporting customers integrating Tuya's embedded platform — MCU serial-protocol docking, Wi-Fi/Zigbee/BLE module connectivity, SDK integration and issue troubleshooting.
 - **Assistant Electronics Engineer · iFlytek Healthcare** (Jun 2024 – Sep 2024)
   Maintained servers running medical AI models; assisted engineers in debugging and optimizing medical microphones, hearing aids and related products; authored technical reports and troubleshooting manuals for the team.
 - **Assistant Electronics Engineer · Hunan Leimu Technology** (Jan 2024 – Apr 2024)
@@ -46,6 +48,6 @@ Hi, I'm **Jeremy Liu** (刘洋杨), an engineer who works at the intersection of
 
 ## 中文简介
 
-你好，我是刘洋杨。电子信息工程本科（中南林业科技大学与英国班戈大学中外合作双学位，一等学位），现于香港浸会大学攻读信息技术管理硕士。做过医疗硬件、电路设计与 IT 运维，喜欢把想法做成能跑的实物。工作之余玩摄影、健身、游泳和骑行。
+你好，我是刘洋杨。电子信息工程本科（中南林业科技大学与英国班戈大学中外合作双学位，一等学位），香港浸会大学信息技术管理硕士，目前在涂鸦智能（Tuya Smart）做嵌入式技术支持工程师。做过医疗硬件、电路设计与 IT 运维，喜欢把想法做成能跑的实物。工作之余玩摄影、健身、游泳和骑行。
 
 想聊聊？欢迎[发邮件](mailto:liuyangyang_24@163.com)，或者去我的 [GitHub](https://github.com/iamjeremymars) 逛逛。

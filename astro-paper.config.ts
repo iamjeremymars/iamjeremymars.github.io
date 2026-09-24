@@ -5,7 +5,7 @@ export default defineAstroPaperConfig({
     url: "https://iamjeremymars.github.io/",
     title: "Jeremy Liu",
     description:
-      "Jeremy Liu — electronics & IT engineer. MSc in IT Management at HKBU, BEng in Electronic Engineering. Circuits, firmware and data.",
+      "Jeremy Liu — embedded technical support engineer at Tuya Smart. MSc in IT Management (HKBU), BEng in Electronic Engineering. Circuits, firmware and data.",
     author: "iamjeremymars",
     profile: "https://github.com/iamjeremymars",
     ogImage: "default-og.jpg",
